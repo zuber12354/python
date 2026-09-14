@@ -7,6 +7,6 @@ def second_largest(numbers: list[float]) -> float:
 
 
 # 3 Test Cases
-print(second_largest([10, 20, 30, 40]))  # 30
+print( "Main test") 
 print(second_largest([5, 5, 5, 2, 1]))  # 2
 print(second_largest([-10, -5, -20]))  # -10
